@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Guillo7799
-- 👀 I’m interested in Front-End Develop
+- 👋 Hi, I’m @Guillo7799 I'm a Software Developer
+- 👀 I’m interested in Front-End and UX
 - 🌱 I’m currently learning a lot of develop skills and new programming languages
 - 💞️ I’m looking to collaborate on Software Company to improve my proffesional skills
 - 📫 How to reach me:
