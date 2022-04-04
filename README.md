@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on Software Company to improve my proffesional skills
 - 📫 How to reach me:
 - Email: riveraguillermo864@gmail.com
-- Instagram: guillo_rivera7
-- Linkedin: Guillermo Rivera
+- Instagram: https://www.instagram.com/guillo_rivera7/
+- Linkedin: https://www.linkedin.com/in/guillermo-rivera-guerrero-4556b5205/
