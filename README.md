@@ -1,6 +1,6 @@
 <div align="center"><img src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif" style="width:900px;height:400px;"></div>
 
-# HOLA! Soy GALESdev un Desarrollador Web en crecimiento :D
+# HOLA! Soy GALESdev un Desarrollador de Software en crecimiento :D
   
  ## :fire: ¿Con qué he trabajado? :fire:
 - Html, Css, MarkDown
@@ -8,7 +8,7 @@
 - React, Angular, Laravel.
 - MySql, SQL Server, PostgreSql, CouchDB, MongoDB.
 
- ## :eyes: Algunos de mis proyectos :eyes:
+ ## :eyes: Algunos de mis proyectos Web :eyes:
 - [Prácticas al Día](https://practicas-al-dia.vercel.app/) 
 - [Dicomsa Construcciones](https://dicomsa.vercel.app/)
 
@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/guillermo-rivera-guerrero-4556b5205/" target="_blank">
       <img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/11/linkedin-2048132_1920.png" style="width:200px;height:200px;">
     </a>
-    <a href="https://www.freecodecamp.org/fcc2af2fcf4-acb0-4b42-b9ee-1678c650807b" target="_blank">
+    <a href="https://www.freecodecamp.org/GalesDev" target="_blank">
       <img src="https://archive.org/download/github.com-freeCodeCamp-freeCodeCamp_-_2019-11-23_00-34-37/cover.jpg" style="width:200px;height:200px;">
     </a>
   </div>
