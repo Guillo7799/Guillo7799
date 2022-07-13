@@ -1,6 +1,6 @@
 <div align="center"><img src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif" style="width:900px;height:400px;"></div>
 
-# HOLA! Soy GALES Dev un Desarrollador FrontEnd en crecimiento :D
+# HOLA! Soy GALESdev un Desarrollador Web en crecimiento :D
   
  ## :fire: ¿Con qué he trabajado? :fire:
 - Html, Css, MarkDown
@@ -8,7 +8,7 @@
 - React, Angular, Laravel.
 - MySql, SQL Server, PostgreSql, CouchDB, MongoDB.
 
- ## :eyes: Algunos de mis proyectos Web :eyes:
+ ## :eyes: Algunos de mis proyectos :eyes:
 - [Prácticas al Día](https://practicas-al-dia.vercel.app/) 
 - [Dicomsa Construcciones](https://dicomsa.vercel.app/)
 
