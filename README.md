@@ -8,7 +8,7 @@
 - React, Angular, Laravel.
 - MySql, SQL Server, PostgreSql, CouchDB, MongoDB.
 
- ## :eyes: Algunos de mis proyectos :eyes:
+ ## :eyes: Algunos de mis proyectos Web :eyes:
 - [Prácticas al Día](https://practicas-al-dia.vercel.app/) 
 - [Dicomsa Construcciones](https://dicomsa.vercel.app/)
 
