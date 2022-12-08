@@ -1,6 +1,8 @@
 <div align="center"><img src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif" style="width:900px;height:400px;"></div>
 
 # HOLA! Soy GALESdev un Desarrollador de Software en crecimiento :D
+## Visita mi Postafolio virtual aquí:
+(En desarrollo)
   
  ## :fire: ¿Con qué he trabajado? :fire:
 - Html, Css, MarkDown
