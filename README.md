@@ -1,8 +1,8 @@
 <div align="center"><img src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif" style="width:900px;height:400px;"></div>
 
-# HOLA! Soy GALESdev un Desarrollador de Software en crecimiento :D
-## Visita mi Postafolio virtual aquí:
-(En desarrollo)
+# HOLA! Soy GALESdev (Guillermo) un Desarrollador de Software y QA Automatizador en crecimiento :D
+## Visita mi Portafolio virtual aquí:
+Proximamente...
   
  ## :fire: ¿Con qué he trabajado? :fire:
 - Html, Css, MarkDown
@@ -11,8 +11,13 @@
 - MySql, SQL Server, PostgreSql, CouchDB, MongoDB.
 
 ## :fire: Algunas herramientas de Testing: :fire:
+- Serenity BDD
+- Karate Framework
 - SoapUI
 - Postman
+- Stela
+- Jmeter
+  
 
  ## :eyes: Algunos de mis proyectos Web :eyes:
 - [Prácticas al Día](https://practicas-al-dia.vercel.app/) 
