@@ -34,7 +34,7 @@ Proximamente...
       <img src="https://cdn.pixabay.com/photo/2021/05/24/17/06/instagram-6279866_960_720.png" style="width:250px;height:250px;">
     </a>
     <a href="https://www.linkedin.com/in/guillermo-rivera-guerrero-4556b5205/" target="_blank">
-      <img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/11/linkedin-2048132_1920.png" style="width:200px;height:200px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Wb7G67EcR44qT3KQLlLzI1Fna_L2lPXfTI1sx8_z2w&s" style="width:200px;height:200px;">
     </a>
     <a href="https://www.freecodecamp.org/GalesDev" target="_blank">
       <img src="https://archive.org/download/github.com-freeCodeCamp-freeCodeCamp_-_2019-11-23_00-34-37/cover.jpg" style="width:200px;height:200px;">
