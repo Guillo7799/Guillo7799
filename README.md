@@ -7,12 +7,13 @@ Proximamente...
  ## :fire: ¿Con qué he trabajado? :fire:
 - Html, Css, MarkDown
 - JavaScript, Python, PHP, SQL, Java, C++, C#, C, VB.
-- React, Angular, Laravel.
+- React, Angular, Laravel, Flask.
 - MySql, SQL Server, PostgreSql, CouchDB, MongoDB.
 
-## :fire: Algunas herramientas de Testing: :fire:
+## :fire: Algunas herramientas de Testing + Automatización: :fire:
 - Serenity BDD
 - Karate Framework
+- Selenium Web Driver
 - SoapUI
 - Postman
 - Stela
@@ -22,6 +23,10 @@ Proximamente...
  ## :eyes: Algunos de mis proyectos Web :eyes:
 - [Prácticas al Día](https://practicas-al-dia.vercel.app/) 
 - [Dicomsa Construcciones](https://dicomsa.vercel.app/)
+
+ ## :wink: Algunas pruebas Automatizadas :wink:
+- [Testing Flask Endpoint con Python](https://practicas-al-dia.vercel.app/](https://github.com/Guillo7799/Testing-Flask-Endpoint-with-Python))
+- [E2E con Serenity BDD + ScreenPlay](https://github.com/Guillo7799/serenity-scenary)
 
  ## :star2: Me puedes encontrar por aquí :star2:
   <div align="center" display="flex">
